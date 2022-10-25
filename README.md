@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjay Veeraragavulu Thakur from India</h1>
+<h1 align="center">Hi 👋, I'm Sanjay Veeraragavulu from India</h1>
 <h3 align="center">A passionate data science practitioner.</h3>
 
 I have completed
