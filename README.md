@@ -8,7 +8,7 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scr
 
 My Projects
 
-#### Exploratory Data Analysis of 3+ Million Used cars Dataset: [Link](https://jovian.ai/sanjaynycws/eda-project-used-cars)
+#### Exploratory Data Analysis of 3+ Million Used cars Dataset: [Link](https://jovian.ai/sanjaynycws/eda-project-used-cars) [Blog](https://blog.jovian.ai/mastering-git-commands-for-your-very-first-project-34e47f7e533a)**
 
 • Cleaned data for 3+ million containing 66 columns and analyzed data by taking a sample of 250,000 rows with 17 columns using Pandas.
 
@@ -16,7 +16,7 @@ My Projects
 
 • Toyota, Ford, and Chevrolet have the most number of listings in the market and the car with the most listings has SUV/Crossover body type.
 
-#### Web Scrapping of the Crypto Website: [Link](https://jovian.ai/sanjaynycws/final-cryptocompare-selenium-webscraping-project) 
+#### Web Scrapping of the Crypto Website: [Link](https://jovian.ai/sanjaynycws/final-cryptocompare-selenium-webscraping-project) [Blog](https://blog.jovian.ai/web-scraping-introduction-importance-techniques-c45c2ae9f66c)**
 
 • Scraped Cryptocompare Website. We used Python, libraries such as Requests, Selenium, and Pandas to extract the details for this project.
 
