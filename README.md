@@ -1,5 +1,6 @@
-#                                         Hi 👋, I'm Sanjay Veeraragavulu from India
-##                                         A passionate data science practitioner.
+<h1 align="center">Hi 👋, I'm Sanjay Veeraragavulu Thakur from India</h1>
+<h3 align="center">A passionate data science practitioner.</h3>
+
 I have completed
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 
@@ -7,7 +8,7 @@ Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scr
 
 My Projects
 
-#### Exploratory Data Analysis of 3+ Million Used cars Dataset : Link Blog
+#### Exploratory Data Analysis of 3+ Million Used cars Dataset: [Link](https://jovian.ai/sanjaynycws/eda-project-used-cars)
 
 • Cleaned data for 3+ million containing 66 columns and analyzed data by taking a sample of 250,000 rows with 17 columns using Pandas.
 
@@ -15,7 +16,7 @@ My Projects
 
 • Toyota, Ford, and Chevrolet have the most number of listings in the market and the car with the most listings has SUV/Crossover body type.
 
-#### Web Scrapping of the Crypto Website: Link Blog
+#### Web Scrapping of the Crypto Website: [Link](https://jovian.ai/sanjaynycws/final-cryptocompare-selenium-webscraping-project) 
 
 • Scraped Cryptocompare Website. We used Python, libraries such as Requests, Selenium, and Pandas to extract the details for this project.
 
@@ -25,7 +26,7 @@ My Projects
 
 •🌱 I’m currently learning Machine Learning
 
-•👨‍💻 All of my projects are available at Jovian Profile
+•👨‍💻 All of my projects are available at [Jovian Profile](https://jovian.ai/sanjaynycws)
 
 •📝 I regularly write articles on Medium
 
@@ -37,7 +38,6 @@ My Projects
 
 #### Blogs posts
 #### Connect with me:
-@https://twitter.com/SanjaySenthu https://www.linkedin.com/in/sanjay-veeraragavulu/ https://medium.com/@sanjaynycws
 <a href="https://twitter.com/@SanjaySenthu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@SanjaySenthu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanjay-veeraragavulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-veeraragavulu" height="30" width="40" /></a>
 <a href="https://medium.com/@sanjaynycws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanjaynycws" height="30" width="40" /></a>
